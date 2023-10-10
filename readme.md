@@ -53,8 +53,3 @@ While `dissasembled.dump` contains the disassembled code, parsing and understand
 
 We'd appreciate any contribution that aids in understanding the disassembled instructions, translating them back into high-level language, or advancing the interpretation techniques. Any suggestions or questions are also most welcome.
 
-Contributing
-------------
-
-Feel free to create pull requests or open an issue for any changes. In case of substantial changes, please discuss your proposals by opening an issue first. Remember to update the tests as per your changes.
-
